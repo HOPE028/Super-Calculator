@@ -19,5 +19,17 @@ for different shapes and objects. Essentially, it's an app that makes sure you g
 7. To calculate for another object with the same shape after you have gotten an answer, simply click any number on your keyboard to reset the process.
 8. To calculate for another object with a different shape, then press the 'HOME' button on the top-left corner of the screen. 
 
+## Features
+- An calculator capable of handling decimals and negative numbers.
+- Gives users formulas for whatever they are looking for
+- Wide selection of shapes to choose from
+- LOTS OF BUILT-IN LOGIC TO PREVENT THE USER FROM BREAKING THE APP :)
+- A nice-looking UI
+
+## Dependencies
+- Unity
+- Text Mesh Pro
+
+
 
 
