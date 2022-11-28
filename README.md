@@ -1,6 +1,14 @@
 # Super-Calculator
-Super Calculator is an app that gives users all the regular functions of a  calculator in addition to providing area and volume calculations 
-for different shapes and objects. Essentially, it's an app that makes sure you get 100% on that next geometry test :)
+
+## What 
+
+Super Calculator is a desktop application made to be a students best friend. On the main page of the super calculator, there are common calculator functions in a beautiful UI.
+
+If one exits the main page, however, they enter a page containing all the different pages including: Regular Calculator, Volume Calculator, Surface Area Calculator and Pythagorean Theorem Calculator.
+
+If by example you click on the Volume Calculator page, you are greeted by a list of different shapes. Once you click on one, you simply provide the information it asks of you (such as radius) and it will calculate the volume. The page will also provide the formula on the top-right corner.
+
+The same is held for the Surface Area Calculator and Pythagorean Theorem Calculator.
 
 ## How to use it
 #### Regular Calculator Mode
